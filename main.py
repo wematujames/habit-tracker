@@ -14,6 +14,3 @@ pixela = Pixela(graph_id=GRAPH_ID, username=USERNAME, token=TOKEN)
 
 # pixela.delete_progress(2022, 4, 12)
 
-
-
-
